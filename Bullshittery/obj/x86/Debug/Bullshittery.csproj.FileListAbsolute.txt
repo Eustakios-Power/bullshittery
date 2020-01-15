@@ -1,0 +1,6 @@
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/bin/Debug/Bullshittery.exe
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/bin/Debug/Bullshittery.pdb
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/obj/x86/Debug/Bullshittery.csprojAssemblyReference.cache
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/obj/x86/Debug/Bullshittery.csproj.CoreCompileInputs.cache
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/obj/x86/Debug/Bullshittery.exe
+/Users/vazquezn21/Projects/Bullshittery/Bullshittery/obj/x86/Debug/Bullshittery.pdb
